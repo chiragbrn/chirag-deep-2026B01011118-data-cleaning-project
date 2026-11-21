@@ -1,0 +1,6 @@
+Requirement
+VS Code
+pandas
+jupyter notebook
+numpy
+kaggle
